@@ -150,6 +150,9 @@ This optimization shows how indexing can drastically reduce query time, improvin
 - **SQL Queries**: DDL, DML, Aggregations, Joins, Subqueries, Window Functions
 - **Tools**: pgAdmin 4 (or any SQL editor), PostgreSQL (via Homebrew, Docker, or direct installation)
 
+  ## License
+This project is licensed under the MIT License.
+
 ## How to Run the Project
 1. Install PostgreSQL and pgAdmin (if not already installed).
 2. Set up the database schema and tables using the provided normalization structure.
